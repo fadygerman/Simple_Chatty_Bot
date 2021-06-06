@@ -1,0 +1,30 @@
+# Project exclude paths
+/.gradle/
+/Topics/Conditional statement/Chocolate/out/
+/Topics/Conditional statement/Chocolate/out/production/classes/
+/Topics/Integer types and operations/Theory/out/
+/Topics/Integer types and operations/Theory/out/production/classes/
+/Topics/Printing data/Digits from 0 to 9 in a single line/out/
+/Topics/Printing data/Digits from 0 to 9 in a single line/out/production/classes/
+/Topics/Printing data/From 0 to 4/out/
+/Topics/Printing data/From 0 to 4/out/production/classes/
+/Topics/Printing data/Printing a magic letter/out/
+/Topics/Printing data/Printing a magic letter/out/production/classes/
+/Topics/Printing data/Theory/out/
+/Topics/Printing data/Theory/out/production/classes/
+/Topics/Scanning the input/Guest list of a hotel/out/
+/Topics/Scanning the input/Guest list of a hotel/out/production/classes/
+/Topics/Scanning the input/Print strings in the reverse order/out/
+/Topics/Scanning the input/Print strings in the reverse order/out/production/classes/
+/Topics/Scanning the input/Printing each word in a new line/out/
+/Topics/Scanning the input/Printing each word in a new line/out/production/classes/
+/Topics/Scanning the input/Theory/out/
+/Topics/Scanning the input/Theory/out/production/classes/
+/Topics/Types and variables/Assignments/out/
+/Topics/Types and variables/Assignments/out/production/classes/
+/Topics/Types and variables/Assignments (1)/out/
+/Topics/Types and variables/Assignments (1)/out/production/classes/
+/Topics/Types and variables/Invalid declaration of variables/out/
+/Topics/Types and variables/Invalid declaration of variables/out/production/classes/
+/Topics/Types and variables/Theory/out/
+/Topics/Types and variables/Theory/out/production/classes/

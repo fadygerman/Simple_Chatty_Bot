@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Topics/Conditional statement/Chocolate" />
+            <option value="$PROJECT_DIR$/Topics/Conditional statement/Interval" />
+            <option value="$PROJECT_DIR$/Topics/Conditional statement/The army of units" />
+            <option value="$PROJECT_DIR$/Topics/Conditional statement/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Integer types and operations/How many nuts each squirrel will get" />
+            <option value="$PROJECT_DIR$/Topics/Integer types and operations/Reading integer numbers" />
+            <option value="$PROJECT_DIR$/Topics/Integer types and operations/Snail" />
+            <option value="$PROJECT_DIR$/Topics/Integer types and operations/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Printing data/Digits from 0 to 9 in a single line" />
+            <option value="$PROJECT_DIR$/Topics/Printing data/From 0 to 4" />
+            <option value="$PROJECT_DIR$/Topics/Printing data/Printing a magic letter" />
+            <option value="$PROJECT_DIR$/Topics/Printing data/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Scanning the input/Guest list of a hotel" />
+            <option value="$PROJECT_DIR$/Topics/Scanning the input/Print strings in the reverse order" />
+            <option value="$PROJECT_DIR$/Topics/Scanning the input/Printing each word in a new line" />
+            <option value="$PROJECT_DIR$/Topics/Scanning the input/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Types and variables/Assignments" />
+            <option value="$PROJECT_DIR$/Topics/Types and variables/Assignments (1)" />
+            <option value="$PROJECT_DIR$/Topics/Types and variables/Invalid declaration of variables" />
+            <option value="$PROJECT_DIR$/Topics/Types and variables/Theory" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
